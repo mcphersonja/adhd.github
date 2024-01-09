@@ -1,0 +1,21 @@
+body
+{
+	background-color : #FC7307;
+	color : #236AB9;
+}
+
+h1
+{
+	text-align : center;
+}
+
+p
+{
+	text-align : justify;
+	font-size : 13pt;
+}
+
+a
+{
+	font-size : 13pt;
+}
